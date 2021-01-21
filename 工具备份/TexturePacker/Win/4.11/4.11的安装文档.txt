@@ -1,0 +1,3 @@
+1. 双击TexturePacker-4.11.0-x64 安装
+2. 选择安装路径。
+3. 拷贝TexturePacker.exe 和 TexturePackerGUI.exe到安装目录bin，替换原来的文件就可直接运行了
